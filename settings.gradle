@@ -1,6 +1,0 @@
-include ':app'
-include ':SharedCode'
-include ':server'
-
-
-enableFeaturePreview('GRADLE_METADATA')
